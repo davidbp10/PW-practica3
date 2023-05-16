@@ -1,0 +1,137 @@
+# Translation of Themes - Stacks in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Stacks package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-08 15:27:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Stacks\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Stack your story. This theme is designed specifically to create slide decks that can be used as a presentation. The \"Stacks\" pattern can be included on any page or post."
+msgstr "Apila tu historia. Este tema está diseñado específicamente para crear diapositivas que puedan utilizarse como una presentación. El patrón \"Stacks\" puede incluirse en cualquier página o entrada."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Stacks"
+msgstr "Stacks"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contraste"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Fuente del sistema"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xxl"
+msgstr "xxl"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xl"
+msgstr "xl"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "lg"
+msgstr "lg"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "md"
+msgstr "md"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "sm"
+msgstr "sm"
+
+#: patterns/stacks.php
+msgctxt "Pattern title"
+msgid "Stacks"
+msgstr "Stacks"
+
+#: patterns/stacks.php:68
+msgid "."
+msgstr "."
+
+#: patterns/stacks.php:68
+msgid "WordPress"
+msgstr "WordPress"
+
+#: patterns/stacks.php:68
+msgid "Proudly Powered by "
+msgstr "Funciona gracias a "
+
+#: patterns/stacks.php:63
+msgid "Download theme"
+msgstr "Descargar tema"
+
+#: patterns/stacks.php:58
+msgid "Download and activate the theme, insert the Stack pattern, and create as many slides as you want."
+msgstr "Descarga y activa el tema, inserta el patrón Stack y crea tantas diapositivas como quieras."
+
+#: patterns/stacks.php:54
+msgid "Create your own Stack"
+msgstr "Crea tu propio Stack"
+
+#: patterns/stacks.php:44
+msgid "They are easy to follow and lead to a clear call to action."
+msgstr "Son fáciles de seguir y te llevan a una clara llamada a la acción."
+
+#: patterns/stacks.php:34
+msgid "Create sites that feel like presentation decks."
+msgstr "Crea sitios que parezcan presentaciones."
+
+#: patterns/stacks.php:24
+msgid "A pattern to tell compelling stories in a simple way"
+msgstr "Un patrón para contar historias convincentes de forma sencilla"
+
+#: patterns/stacks.php:14
+msgid "This is a Stack"
+msgstr "Esto es un Stack"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/themes/author/wordpressdotorg/"
+msgstr "https://wordpress.org/themes/author/wordpressdotorg/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://github.com/WordPress/community-themes/tree/trunk/stacks"
+msgstr "https://github.com/WordPress/community-themes/tree/trunk/stacks"
